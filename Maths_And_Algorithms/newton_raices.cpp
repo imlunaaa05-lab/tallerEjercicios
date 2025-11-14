@@ -1,4 +1,6 @@
 #include <iostream>
+#include "interfaz_matematicas.h"
+
 using namespace std;
 
 double raizCuadrada(double n){
