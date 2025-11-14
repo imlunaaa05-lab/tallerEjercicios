@@ -1,5 +1,7 @@
 #include <iostream>
+#include "interfaz_applications.h"
 using namespace std;
+
 
 void sistemaReservaCine() {
     const int filas = 5, columnas = 5;
