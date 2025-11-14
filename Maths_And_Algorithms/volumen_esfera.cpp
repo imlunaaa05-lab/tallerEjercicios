@@ -1,5 +1,7 @@
 #include <iostream>
 #include <cmath>
+#include "interfaz_matematicas.h"
+
 using namespace std;
 
 int main(){
