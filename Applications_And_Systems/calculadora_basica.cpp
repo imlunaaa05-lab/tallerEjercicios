@@ -1,4 +1,5 @@
 #include <iostream>
+#include "interfaz_applications.h"
 using namespace std;
 
 void calculadoraBasica() {
