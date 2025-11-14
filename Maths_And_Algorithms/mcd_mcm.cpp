@@ -1,4 +1,6 @@
 #include <iostream>
+#include "interfaz_matematicas.h"
+
 using namespace std;
 
 int mcd(int a, int b){
