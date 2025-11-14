@@ -1,5 +1,7 @@
 #include <iostream>
 #include <algorithm>
+#include "interfaz_matematicas.h"
+
 using namespace std;
 
 string convertirDecimalABinario(int n){
